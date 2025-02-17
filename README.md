@@ -4,7 +4,7 @@
 # Webscrapping
 **Web Scraping with Python**
 
-Web scraping is the process of programmatically extracting data from websites using tools and scripts. This guides provides an introduction to scraping the web with Python using popular libraries like Beautiful Soup and Selenium.
+Web scraping is the process of programmatically extracting data from websites using tools and scripts. This guide provides an introduction to scraping the web with Python using popular libraries like Beautiful Soup and Selenium.
 
 **Getting Started**
 
@@ -41,4 +41,4 @@ Avoiding bot detection techniques
 Storing data in pandas DataFrames
 Automating scraping workflows
 Ethical scraping considerations
-Overall this repository serves as a resource for learning fundamental to advanced techniques for scraping data off websites with Python..
+Overall this repository serves as a resource for learning fundamental to advanced techniques for scraping data off websites with Python.
