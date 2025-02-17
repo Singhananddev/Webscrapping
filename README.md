@@ -41,4 +41,4 @@ Avoiding bot detection techniques
 Storing data in pandas DataFrames
 Automating scraping workflows
 Ethical scraping considerations
-Overall this repository serves as a resource for learning fundamental to advanced techniques for scraping data off websites with Python.
+Overall this repository serves as a resource for learning fundamental to advanced techniques for scraping data off websites with Python..
